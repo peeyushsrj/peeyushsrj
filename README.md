@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on **Tech of future**
-- 🌱 I’m currently learning **Smart contracts, Clojure way of sovling, Kubernetes**
-- 👯 I’m looking to collaborate on **Socialy positive sum softwares**
-- 🤔 I’m looking for help with **Interesting minds**
+- 🌱 I’m currently learning **Smart contracts, Clojure solving, Kubernetes**
+- 👯 I’m looking to collaborate on **Socially positive sum software**
+- 🤔 I’m looking for help with **Networking**
 - 💬 Ask me about **tech. and ask me why**
 - 📫 How to reach me: **peeyushsrj@gmail.com**
 - 😄 Pronouns: he/him
