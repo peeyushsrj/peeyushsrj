@@ -1,17 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on **Tech of future**
-- 🌱 I’m currently learning **Smart contracts, Clojure solving, Kubernetes**
-- 👯 I’m looking to collaborate on **Socially positive sum software**
-- 💬 Ask me about **Tech. and ask me why**
+- 🔭 Currently Skillsets **Bash, Python, NodeJS, Golang, DevOps, Program Modelling, Efficiency, Scaling**
+- 🌱 Looking to aquire following skills **Blockchain, Efficient Programming with converyer principles**
 - 📫 How to reach me: **peeyushsrj@gmail.com**
-- ⚡ Fun fact: Funny when unoticed 😺
+- Why to reach me: If you're doing some hobby projects, and need company!
 
-<!--
-**peeyushsrj/peeyushsrj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 😄 Pronouns: he/him
-- 🤔 I’m looking for help with **Networking**
-
--->
-
+Do check my gists, it's I put small utilities time to time.
